@@ -1,4 +1,4 @@
 - 👋 Hi, I’m Bernardo @bernardomais
-- 👀 I’m interested in Software Engineering and Scalable Software Development.
-- 🌱 I’m currently learning Microservices Architecture and Serveless.
+- 👀 I’m interested in Software Architecture and scalability.
+- 🌱 I’m currently learning Microservices Architecture and Serverless computing.
 - 📫 How to reach me: marambaia.bma@gmail.com
